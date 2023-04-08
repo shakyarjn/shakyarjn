@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am back to the world of technology and in the process of relearning the basics. I plan to get into the field of data science. I would love to get some help. Thanks. 
+
+
 <!--
 **shakyarjn/shakyarjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
